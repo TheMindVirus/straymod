@@ -1,0 +1,1 @@
+copy /y ".\build\libs\straymod-1.0.0.jar" "M:\MC\instances\StrayModTest\.minecraft\mods\straymod-1.0.0.jar"
